@@ -9,7 +9,7 @@ LocalGrowth - Local per capita growth rates derived from the deflated per capita
 
 Religion - The population share of attendees in the Qur'an Courses between 2007-2018
 
-KurdPop - Kurdish population level in provinces derived from the Mutlu (1996)'s figures
+KurdPop - Kurdish population level in provinces derived from the Mutlu (1996)'s figures that consist of 67 provinces. The data has been allocated to the 81 provinces using polygon-to-polygon spatial interpolation. 
 
 MedianAge - Median Age figures at the province level from TurkStat
 
